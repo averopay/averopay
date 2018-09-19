@@ -1,0 +1,2 @@
+debian/bin/AveroPayd usr/bin
+src/AveroPayd usr/lib/AveroPay

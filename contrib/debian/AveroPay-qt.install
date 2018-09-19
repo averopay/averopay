@@ -1,0 +1,5 @@
+AveroPay-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/AveroPay-qt.desktop usr/share/applications
+debian/AveroPay-qt.protocol usr/share/kde4/services/
