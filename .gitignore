@@ -9,8 +9,6 @@ src/leveldb/build_config.mk
 object_script.AveroPay.Release
 object_script.AveroPay.Debug
 AveroPay_plugin_import.cpp
-Makefile
-Makefile.*
 release
 debug
 src/qt/locale/*.qm
